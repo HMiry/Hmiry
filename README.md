@@ -9,6 +9,6 @@ I integrate AI into real-world software solutions.
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/hojjat-miryavifard)  
-- Email:hoomanmiryavi2@yahoo.com  
+- Email : hoomanmiryavi2@yahoo.com  
 
 
