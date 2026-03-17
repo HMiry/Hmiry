@@ -1,6 +1,6 @@
 ## Hi, I'm Hojjat 👋  
 
-👨‍💻 I am a Software Engineer and Master’s student in Data Science & Engineering.  
+👨‍💻 I am a Software Engineer.  
 🧠 Skilled in Machine Learning and Artificial Intelligence.  
 🚀 I integrate AI into real-world software solutions.  
 
